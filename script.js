@@ -145,7 +145,7 @@ var operationCases = {
 	},
 	case21: {
 		name: "ESL One Cologne 2014 Cobblestone Souvenir Package",
-		price: 184.26,
+		price: 0.10,
 		img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk54dFBopqiqJghf1_b3cj9A4Nn4wYSJxPagMeyFw21Q68N32O3DotX021Gx_Uttaj_zJIHHJ1M5Yl6D-k_-n7lVjEgWRQ"
 	},
 	case22: {
@@ -824,7 +824,7 @@ var knives = {
 		},
 		knife133: {
 			name: "✯ M9 Bayonet | Crimson Web FN",
-			price: 4375.00,
+			price: 9999999999.00,
 			img: "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz5wOuqzNQhqKzvAALlRUvAuywD1NjA36tRcWN6x_685JV2t49fYNuJ5YtFEGZKFWKWGMF38u01s1PRbfMaK9inp3Xu7Oz8OCRTs8mkHzPjH5OVNhzgQCA"
 		},
 		knife134: {
