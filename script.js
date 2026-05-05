@@ -37,7 +37,7 @@ var jackpotInventory = {};
 var inventoryMax = 100;
 var inventoryCurrent = 0;
 
-var keyPrice = 2.50;
+var keyPrice = 0.1;
 
 var caseDiscount = 0;
 var keyDiscount = 0;
