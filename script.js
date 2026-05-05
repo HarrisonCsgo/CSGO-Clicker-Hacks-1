@@ -8529,7 +8529,7 @@ var cases = {
 			weap5: {
 				name: "FAMAS | Hexane FT",
 
-				price: 0.96,
+				price: 999999999999,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3czFX6dSzjL-GkvP9JrbummpD78A_2LGZotqkigDk_hBqZ2CiJ4XBew5oZ1rW-Va_wu_ohZPotc7KzHY3vT5iuyh4z99XmA"
 
 			},
